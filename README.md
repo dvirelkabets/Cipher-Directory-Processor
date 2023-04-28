@@ -43,4 +43,5 @@ The `processDirectory()` function in this script takes a directory path as an ar
 ## Contributors
 
 -[Dvir Elkabets](https://github.com/dvirelkabets)
+-[Maor Carmely](https://github.com/maorcarmely)
 
