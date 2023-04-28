@@ -40,8 +40,4 @@ The `VigenereCipher` class in this script takes an array of integers as the encr
 
 The `processDirectory()` function in this script takes a directory path as an argument and processes all the files in the directory according to the configuration specified in `config.json`. If the configuration specifies encryption mode, all `.txt` files in the directory will be encrypted and saved with a `.enc` extension. If the configuration specifies decryption mode, all `.enc` files in the directory will be decrypted and saved with a `.txt` extension.
 
-## Contributors
-
--[Dvir Elkabets](https://github.com/dvirelkabets)
--[Maor Carmely](https://github.com/maorcarmely)
 
